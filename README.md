@@ -32,12 +32,49 @@ java Main
 
 
 ## 🛠 Working Flowchart:
-![Screenshot1](![ATM BANK drawio](https://github.com/user-attachments/assets/604f940c-d744-4f51-9fbe-db0a632e59b2))
+![ATM BANK drawio](https://github.com/user-attachments/assets/604f940c-d744-4f51-9fbe-db0a632e59b2)
 
 
 ## 🖥️ Screenshots
-![Screenshot1](link-to-image)
-![Screenshot2](link-to-image)
+**Login Page:**
+Administrator(user) have to insert his credentials to access the system. All the
+data of the administrator is already stored in the database. If the credentials does not match, the
+user does not have access to the system. 
+![login1](https://github.com/user-attachments/assets/9f388ff6-626e-4105-8fc4-f30e86f86ec5)
+
+**SignUp Page 01:**
+In this page the user input your Personal Details for a new account.
+![sinup2](https://github.com/user-attachments/assets/a61de11e-d789-48c5-aadb-c3c0173f5d38)
+
+**SignUp Page 02:**
+In this page the user input your Additonal Details for a new account.
+![sinup3](https://github.com/user-attachments/assets/011acfd3-233a-43dc-b264-0dd0a5460cce)
+
+**SignUp Page 03:**
+In this page the user input your Account Details for a new account.
+![sinup4](https://github.com/user-attachments/assets/a7912a24-7aaf-4e29-8e4b-cb390ac192c0)
+
+**Main Menu:** 
+Through this page the user can deposit, withdrawl, fast cash withdrawl, pin change, balance check and get mini statement.
+![main5](https://github.com/user-attachments/assets/8f8df8a1-e71f-48ae-9e2b-8bbd5beaa092)
+
+**Deposit Page:**
+![deposit6](https://github.com/user-attachments/assets/9b114aa6-8829-4a95-b326-f954e097b852)
+
+**Fast Cash Withdrawl Page:**
+![firstwithdrawl7](https://github.com/user-attachments/assets/a805ec3d-0657-4744-ab43-cd10c0038b11)
+
+**Pin Change Page:**
+![pinchange8](https://github.com/user-attachments/assets/bd84f30b-8cc7-4f35-8f09-af2321118a7f)
+
+**Withdrawl Page:**
+![withdrawl9](https://github.com/user-attachments/assets/263ac0df-b83d-4f80-9282-ddcd7bf52361)
+
+**Statement Page:**
+![ministatement10](https://github.com/user-attachments/assets/a7d390c5-940c-435d-8892-3ba4f91d1d89)
+
+**Balance Enquiry Page:**
+![checkbalance11](https://github.com/user-attachments/assets/a77c0378-2824-44e5-ae27-0e5619c8e84d)
 
 
 ## 🤝 Contributing
