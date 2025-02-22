@@ -21,7 +21,7 @@ The ATM Bank Management System is an advanced banking application designed to fa
 
 ## ⚙️ Installation & Setup
 1️⃣ Clone the repository:
-git clone https://github.com/Grb-47/atm-bank-management-system.git
+git clone https://github.com/Grb-47/abms-01/tree/main
 cd atm-bank-management-system
 
 2️⃣ Compile and Run the project:
