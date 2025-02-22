@@ -36,24 +36,10 @@ java Main
 
 
 ## Working Flowchart:
-![image alt](https://github.com/Grb-47/abms-01/blob/main/snippet/ATM%20BANK.drawio.png?raw=true)
 
 
 ## 🖥️ Screenshots
-![Screenshot 2025-02-21 195600](https://github.com/user-attachments/assets/851d8efe-bb6c-451c-905f-f9fba825fd0b)
-![image](https://github.com/user-attachments/assets/10832b90-a910-4f72-81db-dff632136aa7)
 
-![Screenshot2](link-to-image)
-![Screenshot1](https://github.com/user-attachments/assets/26945677-e951-4087-b823-9ef89db54aea)
-![Screenshot 2025-02-21 200510](https://github.com/user-attachments/assets/36b5e27c-3982-4a4d-97a2-d0134b9fa18a)
-![Screenshot 2025-02-21 200538](https://github.com/user-attachments/assets/7cdb7fde-b3ce-460f-a385-61639a141eaf)
-![Screenshot 2025-02-21 200619](https://github.com/user-attachments/assets/758960b4-8ae0-4351-9196-59247473d297)
-![Screenshot 2025-02-21 200927](https://github.com/user-attachments/assets/ff5a604f-16cc-477f-a0bd-5ba4e27d39aa)
-![Screenshot 2025-02-21 200944](https://github.com/user-attachments/assets/a854b995-8996-4818-9813-158eec06a5de)
-![Screenshot 2025-02-21 201003](https://github.com/user-attachments/assets/c830615c-1140-4755-8b6d-fd80397afa19)
-![Screenshot 2025-02-21 201023](https://github.com/user-attachments/assets/c6800ee9-b816-43c6-9b97-77cf26d60be2)
-![Screenshot 2025-02-21 201213](https://github.com/user-attachments/assets/160bb7aa-0da4-4c70-a2e0-d52fb6839fad)
-![Screenshot 2025-02-21 201237](https://github.com/user-attachments/assets/b9d40d38-60ca-4d4e-8e84-09396bcf0aac)
 
 
 ## 🤝 Contributing
