@@ -26,20 +26,15 @@ git clone https://github.com/Grb-47/atm-bank-management-system.git
 cd atm-bank-management-system
 
 2️⃣ Compile and Run the project:
-sh
-Copy
-Edit
 javac Main.java
 java Main
 
 3️⃣ Ensure MySQL is running and configured.
 
 
-## Working Flowchart:
-
-
 ## 🖥️ Screenshots
-
+![Screenshot1](link-to-image)
+![Screenshot2](link-to-image)
 
 
 ## 🤝 Contributing
@@ -49,6 +44,7 @@ Contributions are welcome! Follow these steps:
 3. Commit your changes: `git commit -m "Added a new feature"`
 4. Push to the branch: `git push origin feature-branch`
 5. Open a pull request.
+
 
 ## 📜 License
 This project is licensed under the MIT License.
