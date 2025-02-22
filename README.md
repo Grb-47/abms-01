@@ -42,9 +42,7 @@ java Main
 
 ## 🖥️ Screenshots
 ![Screenshot 2025-02-21 195600](https://github.com/user-attachments/assets/851d8efe-bb6c-451c-905f-f9fba825fd0b)
-)
-![Screenshot]([![image](https://github.com/user-attachments/assets/10832b90-a910-4f72-81db-dff632136aa7)
-))
+![image](https://github.com/user-attachments/assets/10832b90-a910-4f72-81db-dff632136aa7)
 
 ![Screenshot2](link-to-image)
 ![Screenshot1](https://github.com/user-attachments/assets/26945677-e951-4087-b823-9ef89db54aea)
