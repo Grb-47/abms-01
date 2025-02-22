@@ -43,6 +43,8 @@ java Main
 ## 🖥️ Screenshots
 ![Screenshot 2025-02-21 195600](https://github.com/user-attachments/assets/851d8efe-bb6c-451c-905f-f9fba825fd0b)
 )
+![Screenshot]([https://raw.githubusercontent.com/Grb-47/atm-bank-management-system/main/assets/screenshot1.png](https://github.com/Grb-47/abms-01/blob/main/snippet/Screenshot%202025-02-21%20195600.png))
+
 ![Screenshot2](link-to-image)
 ![Screenshot1](https://github.com/user-attachments/assets/26945677-e951-4087-b823-9ef89db54aea)
 ![Screenshot 2025-02-21 200510](https://github.com/user-attachments/assets/36b5e27c-3982-4a4d-97a2-d0134b9fa18a)
