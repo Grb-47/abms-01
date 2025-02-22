@@ -44,7 +44,7 @@ java Main
 ![Screenshot 2025-02-21 195600](https://github.com/user-attachments/assets/851d8efe-bb6c-451c-905f-f9fba825fd0b)
 )
 ![Screenshot2](link-to-image)
-![Screenshot 2025-02-21 200430](https://github.com/user-attachments/assets/26945677-e951-4087-b823-9ef89db54aea)
+![Screenshot1](https://github.com/user-attachments/assets/26945677-e951-4087-b823-9ef89db54aea)
 ![Screenshot 2025-02-21 200510](https://github.com/user-attachments/assets/36b5e27c-3982-4a4d-97a2-d0134b9fa18a)
 ![Screenshot 2025-02-21 200538](https://github.com/user-attachments/assets/7cdb7fde-b3ce-460f-a385-61639a141eaf)
 ![Screenshot 2025-02-21 200619](https://github.com/user-attachments/assets/758960b4-8ae0-4351-9196-59247473d297)
