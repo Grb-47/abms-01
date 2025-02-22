@@ -36,8 +36,7 @@ java Main
 
 
 ## Working Flowchart:
-![Project Logo](link-to-image)
-![ATM BANK drawio]([https://github.com/user-attachments/assets/b40b666b-9138-4d72-869a-0a79afaab136](https://github.com/Grb-47/abms-01/blob/main/snippet/Screenshot%202025-02-21%20195600.png))
+![image alt](https://github.com/Grb-47/abms-01/blob/main/snippet/ATM%20BANK.drawio.png?raw=true)
 
 
 ## 🖥️ Screenshots
