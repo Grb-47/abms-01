@@ -31,6 +31,10 @@ java Main
 3️⃣ Ensure MySQL is running and configured.
 
 
+## 🛠 Working Flowchart:
+![Screenshot1](![ATM BANK drawio](https://github.com/user-attachments/assets/604f940c-d744-4f51-9fbe-db0a632e59b2))
+
+
 ## 🖥️ Screenshots
 ![Screenshot1](link-to-image)
 ![Screenshot2](link-to-image)
